@@ -1,0 +1,59 @@
+.info-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 2% 2% 0 0;
+}
+
+.info-name {
+  margin: 1rem;
+  color: white;
+  text-align: center;
+}
+
+.info-firstn {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.info-subtitle {
+  color: orange;
+}
+
+.info-web {
+  margin: 0.8rem;
+  font-size: 0.8rem;
+  color: white;
+}
+
+.info-socials-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.info-socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  margin: 0 0.8rem 0.8rem 0.8rem;
+}
+
+.info-socials-email-button, .info-socials-linkedin-button {
+  background-color: #3E7BFA; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+}
+
+.email-icon {
+  vertical-align: middle;
+  font-size: 1rem;
+}

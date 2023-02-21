@@ -1,0 +1,19 @@
+.interests-container {
+  margin: 0.5rem 0.8rem;
+}
+
+.interests-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+  margin: 0.5rem auto;
+}
+
+.interests-text {
+  font-size: 0.8rem;
+  color: white;
+}
+
+.development-title, .other-title {
+  text-decoration: underline;
+}

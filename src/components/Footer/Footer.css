@@ -1,0 +1,16 @@
+.footer-container {
+  margin: 0.5rem 0.8rem;
+}
+
+.footer-socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  margin: 0 0.8rem 0.8rem 0.8rem;
+  font-size: 1.5rem;
+}
+
+.footer-socials a {
+  color: white;
+}
