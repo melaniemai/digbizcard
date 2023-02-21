@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digbizcard/static/css/main.4258ab55.css",
+    "main.js": "/digbizcard/static/js/main.b632636e.js",
+    "static/js/787.89fd79c0.chunk.js": "/digbizcard/static/js/787.89fd79c0.chunk.js",
+    "static/media/iconImage_small2.jpeg": "/digbizcard/static/media/iconImage_small2.458153ff50c2c64b5bf4.jpeg",
+    "index.html": "/digbizcard/index.html",
+    "main.4258ab55.css.map": "/digbizcard/static/css/main.4258ab55.css.map",
+    "main.b632636e.js.map": "/digbizcard/static/js/main.b632636e.js.map",
+    "787.89fd79c0.chunk.js.map": "/digbizcard/static/js/787.89fd79c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4258ab55.css",
+    "static/js/main.b632636e.js"
+  ]
+}
